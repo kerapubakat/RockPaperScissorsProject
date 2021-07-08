@@ -1,5 +1,5 @@
 #RockPaperScissorsProject
-TensorFlow Image Data Processor Tasks Final Project Submission
+TensorFlow Image Data Generator Tasks Final Project Submission
 
 
 The following is the output of a simple TensorFlow image classification project.
